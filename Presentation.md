@@ -1,6 +1,4 @@
-# Project 2 - The Gold EuroBitty Bot
-
-#### UM FinTech BootCamp 2021
+# The Gold EuroBitty Bot
 
 #### June 22th, 2021
 
